@@ -1,0 +1,13 @@
+bb1f84eb2028248d79b5990ef8a56118 *DESCRIPTION
+a7eededba9795247019b813c8be54c65 *LICENSE
+a61336b04d395ef8b5a364a599aa8719 *NAMESPACE
+30b694ad0197941bb2ad59cf69beaca4 *R/describe.R
+4614ecb05996349c67933f342b8ee0a8 *R/describer.R
+dc6f42d5b0c5fb0c1f512c7dafc7c5ec *README.md
+7fa300960bc4c16dd1a567e9ba79fd12 *man/describe.Rd
+4a2d6cf91f8be4bd7c3f6c920aa9d80f *man/describe_nonnumeric.Rd
+1925c8362c86fa1fd96e91183f003f41 *man/describe_numeric.Rd
+bed92f0083bcffdeab4a5434ee94ed42 *man/describer.Rd
+c42657c81a8dd8bb3b1e88808fac29c6 *tests/testthat.R
+254e8b2af2d0e1e9d3d3403e3c43a97d *tests/testthat/test-describe-dataframes.R
+ef438fbb26c9f061aaf132ec71e9f238 *tests/testthat/test-describe-vectors.R
